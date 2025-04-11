@@ -1,5 +1,5 @@
 ---
-title: Workshop at ISCOMS 2024 (International Student Congress Of (bio)Medical Sciences)  testaa
+title: Workshop at ISCOMS 2024 (International Student Congress Of (bio)Medical Sciences)  testaaaaa
 
 event: Wowchemy Conference
 event_url: https://example.org
