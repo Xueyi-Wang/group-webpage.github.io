@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **MedTech-RUG Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2020.
   
   - block: collection
     content:
