@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        MedTech-RUG
         Research Group
       image:
         filename: welcome.jpg
