@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Xueyi Wang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Xueyi
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Xueyi Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
