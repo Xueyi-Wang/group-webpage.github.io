@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        MedTech-RUG
+        MedTech_RUG
         Research Group
       image:
         filename: welcome.jpg
