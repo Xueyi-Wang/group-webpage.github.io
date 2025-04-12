@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **MedTech-RUG Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2020.
+        The **MedTech_RUG Research Group** is a group focusing on Control of Robotic Systems for Assistance and Rehabilitation from the University of Groningen.
   
   - block: collection
     content:

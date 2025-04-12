@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the MedTech-RUG group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: About us ☕️
+        content: 'We are a group focusing on the technology of the healthcare!'
         align: left
         background:
           image:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: World-Class Healthcare Lab
         content: 'Just opened last month!'
         align: right
         background:
