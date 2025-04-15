@@ -18,7 +18,7 @@ role: PhD candidates
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Groningen
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
